@@ -1,6 +1,6 @@
 {
   "name": "node-unitconv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple library for converting between different units",
   "main": "index.js",
   "scripts": {
