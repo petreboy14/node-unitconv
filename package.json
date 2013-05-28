@@ -1,0 +1,24 @@
+{
+  "name": "node-unitconv",
+  "version": "0.0.0",
+  "description": "A simple library for converting between different units",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petreboy14/node-unitconv"
+  },
+  "keywords": [
+    "units",
+    "conversion",
+    "metric",
+    "imperial"
+  ],
+  "author": "Peter Henning <petreboy14@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/petreboy14/node-unitconv/issues"
+  }
+}
